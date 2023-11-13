@@ -87,11 +87,11 @@ PM_START_TEXT = """
 
 buttons = [
     [
-        InlineKeyboardButton(text="🏡", callback_data="daxxback"),
-        InlineKeyboardButton(text="🛡️", callback_data="daxx"),
-        InlineKeyboardButton(text="💳", callback_data="source_"),
-        InlineKeyboardButton(text="🧑‍💻", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
+        InlineKeyboardButton(text="", callback_data="daxxback"),
+        InlineKeyboardButton(text="", callback_data="daxx"),
+        InlineKeyboardButton(text="", callback_data="source_"),
+        InlineKeyboardButton(text="", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="", callback_data="Main_help"),
      ],
     [
         InlineKeyboardButton(
@@ -380,11 +380,11 @@ def daxxabout_callback(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-        InlineKeyboardButton(text="🏡", callback_data="daxxback"),
-        InlineKeyboardButton(text="🛡️", callback_data="daxx"),
-        InlineKeyboardButton(text="💳", callback_data="source_"),
-        InlineKeyboardButton(text="🧑‍💻", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
+        InlineKeyboardButton(text="", callback_data="daxxback"),
+        InlineKeyboardButton(text="", callback_data="daxx"),
+        InlineKeyboardButton(text="", callback_data="source_"),
+        InlineKeyboardButton(text="", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="", callback_data="Main_help"),
      ],
                     [
                         InlineKeyboardButton(
@@ -416,11 +416,11 @@ def daxxabout_callback(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-        InlineKeyboardButton(text="🏡", callback_data="daxxback"),
-        InlineKeyboardButton(text="🛡️", callback_data="daxx"),
-        InlineKeyboardButton(text="💳", callback_data="source_"),
-        InlineKeyboardButton(text="🧑‍💻", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
+        InlineKeyboardButton(text="", callback_data="daxxback"),
+        InlineKeyboardButton(text="", callback_data="daxx"),
+        InlineKeyboardButton(text="", callback_data="source_"),
+        InlineKeyboardButton(text="", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="", callback_data="Main_help"),
      ],
                     [
                         InlineKeyboardButton(
@@ -598,11 +598,11 @@ Yᴏᴜ ᴄᴀɴ ʜᴇʟᴘ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴡɪᴛʜ 
             
             reply_markup=InlineKeyboardMarkup(
                 [ [
-        InlineKeyboardButton(text="🏡", callback_data="daxxback"),
-        InlineKeyboardButton(text="🛡️", callback_data="daxx"),
-        InlineKeyboardButton(text="💳", callback_data="source_"),
-        InlineKeyboardButton(text="🧑‍💻", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
+        InlineKeyboardButton(text="", callback_data="daxxback"),
+        InlineKeyboardButton(text="", callback_data="daxx"),
+        InlineKeyboardButton(text="", callback_data="source_"),
+        InlineKeyboardButton(text="", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="", callback_data="Main_help"),
      ],
                     [
                         InlineKeyboardButton(text="• Dᴏɴᴀᴛᴇ •", url="https://t.me/ALLTYPECC/1578"),InlineKeyboardButton(text="• sᴜᴘᴘᴏʀᴛ •", callback_data="daxxsupport")
@@ -638,11 +638,11 @@ def Source_about_callback(update: Update, context: CallbackContext):
         InlineKeyboardButton(text="sᴏᴜʀᴄᴇ", url=f"https://github.com/DAXXTEAM/YumikooRobot")
                 ],
                  [
-        InlineKeyboardButton(text="🏡", callback_data="daxxback"),
-        InlineKeyboardButton(text="🛡️", callback_data="daxx"),
-        InlineKeyboardButton(text="💳", callback_data="source_"),
-        InlineKeyboardButton(text="🧑‍💻", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
+        InlineKeyboardButton(text="", callback_data="daxxback"),
+        InlineKeyboardButton(text="", callback_data="daxx"),
+        InlineKeyboardButton(text="", callback_data="source_"),
+        InlineKeyboardButton(text="", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="", callback_data="Main_help"),
      ],[InlineKeyboardButton(text="◁", callback_data="source_back")]]
             ),
         )
@@ -668,11 +668,11 @@ def Music_about_callback(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-        InlineKeyboardButton(text="🏡", callback_data="daxxback"),
-        InlineKeyboardButton(text="🛡️", callback_data="daxx"),
-        InlineKeyboardButton(text="💳", callback_data="source_"),
-        InlineKeyboardButton(text="🧑‍💻", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
+        InlineKeyboardButton(text="", callback_data="daxxback"),
+        InlineKeyboardButton(text="", callback_data="daxx"),
+        InlineKeyboardButton(text="", callback_data="source_"),
+        InlineKeyboardButton(text="", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="", callback_data="Main_help"),
      ],
                     [
                         InlineKeyboardButton(
