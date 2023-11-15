@@ -86,7 +86,7 @@ buttons = [
         InlineKeyboardButton(text="", callback_data="daxx"),
         InlineKeyboardButton(text="", callback_data="source_"),
         InlineKeyboardButton(text="", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="", callback_data="Main_help"),
+        InlineKeyboardButton(text="", callback_data="help_back"),
      ],
     [
         InlineKeyboardButton(
